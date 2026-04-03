@@ -2,9 +2,9 @@
 
 A modern, accessible news dashboard built with **Next.js 14**, **TypeScript**, and **Tailwind CSS** — powered by The Guardian's Open Platform API.
 
-[**Live Demo →**](https://your-deployment-url.vercel.app)
+[**Live Demo →**]([https://your-deployment-url.vercel.app](https://newsexplorer-9k6ndhbwj-aframelias-projects.vercel.app/)
 
-![UK News Explorer screenshot](./screenshot.png)
+![UK News Explorer screenshot](./news.png)
 
 ---
 
@@ -37,7 +37,7 @@ A modern, accessible news dashboard built with **Next.js 14**, **TypeScript**, a
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/aframelia/uk-news-explorer.git
-cd uk-news-explorer
+cd news-explorer
 ```
 
 ### 2. Install dependencies
@@ -75,7 +75,6 @@ src/
     ArticleCard.tsx        # News card with image, title, excerpt
     CategoryNav.tsx        # Category filter buttons
     SearchBar.tsx          # Accessible search input
-    ThemeToggle.tsx        # Dark/light mode toggle
     LoadingSkeleton.tsx    # Animated loading placeholders
   types/
     guardian.ts            # TypeScript interfaces for API data
@@ -91,7 +90,6 @@ src/
 - Keeping API keys secure using server-side API routes
 - Building accessible UI components with proper ARIA attributes
 - TypeScript interfaces for third-party API responses
-- Tailwind dark mode with class strategy
 
 ---
 
