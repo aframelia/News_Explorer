@@ -4,7 +4,7 @@ A modern, accessible news dashboard built with **Next.js 14**, **TypeScript**, a
 
 [**Live Demo →**]([https://your-deployment-url.vercel.app](https://newsexplorer-9k6ndhbwj-aframelias-projects.vercel.app/)
 
-![UK News Explorer screenshot](./news.png)
+![News Explorer screenshot](news.png)
 
 ---
 
